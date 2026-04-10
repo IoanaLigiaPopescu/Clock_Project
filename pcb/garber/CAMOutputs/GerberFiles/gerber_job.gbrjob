@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2026-04-10T13:47:03Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.6608,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "PROIECT_TSC"
+        },
+        "Owner": "Ioana-Ligia Popescu <ioana_ligia.popescu@stud.acs.upb.ro>",
+        "Size": {
+            "X": 160,
+            "Y": 100
+        }
+    }
+}
